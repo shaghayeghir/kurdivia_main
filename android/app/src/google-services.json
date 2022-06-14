@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "783038211695",
+    "project_id": "med-quiz-1df58",
+    "storage_bucket": "med-quiz-1df58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783038211695:android:260b8b32849508a6a40f9a",
+        "android_client_info": {
+          "package_name": "com.example.kurdivia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783038211695-htb72gish8v4gdnv1kch1trov40pli5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kurdivia",
+            "certificate_hash": "b3d9e6eeeea2f18d223a791552d0765c2b22093c"
+          }
+        },
+        {
+          "client_id": "783038211695-mpsbmbmpo2dm120j6ccldridpfl5lhli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZv9a952Qx9AGqw61sae7Es3Pya9IuTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783038211695-mpsbmbmpo2dm120j6ccldridpfl5lhli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
